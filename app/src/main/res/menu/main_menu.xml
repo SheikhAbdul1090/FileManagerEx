@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menuSearch"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="collapseActionView|ifRoom" />
+
+    <item
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        android:title=""
+        app:showAsAction="ifRoom">
+
+        <menu>
+            <item
+                android:id="@+id/menuCreateNewFolder"
+                android:title="Create New Folder"
+                app:showAsAction="never" />
+
+            <item
+                android:id="@+id/menuView"
+                android:title="View"
+                app:showAsAction="never">
+                <menu>
+                    <group android:checkableBehavior="single">
+                        <item
+                            android:id="@+id/menuListView"
+                            android:title="List View"
+                            app:showAsAction="never" />
+                        <item
+                            android:id="@+id/menuGridView"
+                            android:title="Grid View"
+                            app:showAsAction="never" />
+                    </group>
+                </menu>
+            </item>
+
+            <item
+                android:id="@+id/menuSort"
+                android:title="Sort"
+                app:showAsAction="never">
+                <menu>
+                    <item
+                        android:id="@+id/menuSortOrder"
+                        android:title="Sort Order"
+                        app:showAsAction="never">
+                        <menu>
+                            <group android:checkableBehavior="single">
+                                <item
+                                    android:id="@+id/menuSortAscending"
+                                    android:title="Ascending"
+                                    app:showAsAction="never" />
+                                <item
+                                    android:id="@+id/menuSortDescending"
+                                    android:title="Descending"
+                                    app:showAsAction="never" />
+                            </group>
+                        </menu>
+                    </item>
+                    <group android:checkableBehavior="single">
+                        <item
+                            android:id="@+id/menuSortByName"
+                            android:title="Name"
+                            app:showAsAction="never" />
+                        <item
+                            android:id="@+id/menuSortByDate"
+                            android:title="Date"
+                            app:showAsAction="never" />
+                        <item
+                            android:id="@+id/menuSortBySize"
+                            android:title="Size"
+                            app:showAsAction="never" />
+                        <item
+                            android:id="@+id/menuSortByDragAndDrop"
+                            android:title="Drag And Drop"
+                            app:showAsAction="never" />
+                    </group>
+                </menu>
+            </item>
+
+            <item
+                android:id="@+id/menuShowHiddenFile"
+                android:checkable="true"
+                android:title="Show Hidden File"
+                app:showAsAction="never" />
+        </menu>
+
+    </item>
+
+</menu>

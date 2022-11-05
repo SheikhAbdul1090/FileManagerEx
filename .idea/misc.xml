@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_content_copy_24.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_content_paste_24.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.26614583333333336" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_drive_file_move_24.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_folder_24.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_insert_drive_file_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_select_all_24.xml" value="0.26205128205128203" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/drawable/shape.xml" value="0.26614583333333336" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout-v23/option_dialogue.xml" value="0.23802083333333332" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/activity_file_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/activity_filelist.xml" value="0.23802083333333332" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/activity_image.xml" value="0.25" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/activity_main2.xml" value="0.23802083333333332" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/file_row.xml" value="0.25416666666666665" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/file_row_gridview.xml" value="0.23802083333333332" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/file_row_listView.xml" value="0.23802083333333332" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/file_row_listview.xml" value="0.23802083333333332" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/header_row.xml" value="0.23802083333333332" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/option_dialogue.xml" value="0.25" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/option_layout.xml" value="0.25" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/path_row.xml" value="0.25" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/layout/progress_dialog.xml" value="0.25" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/menu/main_menu.xml" value="0.25" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Sheikh_Abdul/LEARN_ANDROID/FileManagerEx/app/src/main/res/xml/provider_paths.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

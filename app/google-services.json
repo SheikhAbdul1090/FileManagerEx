@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818666829052",
+    "project_id": "filemanagerex",
+    "storage_bucket": "filemanagerex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818666829052:android:ea7edc1c75e24d6ad81379",
+        "android_client_info": {
+          "package_name": "com.example.filemanagerex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818666829052-8v8iuomq9n8pj40vq5s3cr9h1fi013tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOrBiDAOZoUjKP8XFYpdbbWKoveIYVHKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818666829052-8v8iuomq9n8pj40vq5s3cr9h1fi013tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FileManagerEx</string>
+
+    <string name="forPermission">File Manager can help you
+        \nquickly find your files (Document,
+        \nPhoto, Video and more) and help
+        \nyou manage your files if you allow
+        \nAccess.
+    </string>
+</resources>
